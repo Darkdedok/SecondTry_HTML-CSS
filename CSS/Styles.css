@@ -1,8 +1,27 @@
-body * {
-    background: #fff53a;
-    color: blue;
+
+.box {
+    flex-direction: column;
+    margin: 2%;
+    height: 40vh;
+    width: 50vw;
+    box-sizing: border-box;
+
 }
 
-img {
-    width: 400px;
+.Learn_more {
+    height: 5vh;
+    width: 20vw;
+}
+
+.border {
+    border: thin solid black;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+padding: 10px 10px 30px 10px;
 }
