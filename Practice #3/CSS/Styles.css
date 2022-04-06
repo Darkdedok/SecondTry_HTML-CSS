@@ -1,0 +1,37 @@
+body {
+    background: aqua;
+}
+
+.boxArea {
+    background: white;
+    height: 200px;
+    width: 500px;
+    border-radius: 5%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.row {
+    flex-direction: row;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.column {
+    flex-direction: column;
+}
+h1{
+    color: mistyrose;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
