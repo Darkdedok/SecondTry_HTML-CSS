@@ -1,0 +1,62 @@
+.bRadius_50 {
+    border-radius: 50%;
+}
+
+.small_box {
+    background: white;
+    width: 200px;
+    height: 200px;
+}
+
+
+.border {
+    border: black solid thin;
+}
+
+.img_size {
+    width: 150px;
+    height: 150px;
+}
+
+.padding{
+    padding-top: 20px;
+}
+.flex {
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.big_box {
+    margin: 20% 10%;
+    width: 300px;
+    height: 400px;
+}
+
+.position_absolute {
+    position: absolute;
+    top: 140px;
+}
+.button{
+    height: 80px;
+    width: 150px;
+}
+.margin_20px{
+    margin: 20px;
+}
+.flex_row{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.position_relative{
+    position: relative;
+    top: 10px;
+}
+.margin_bottom{
+    margin-bottom: 150px;
+}
